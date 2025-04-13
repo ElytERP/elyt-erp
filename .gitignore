@@ -1,0 +1,17 @@
+logs/
+configs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info
+*.egg
+*.whl
+*.tar.gz
+*.zip
+*.log
+*.json
+*.csv
+*.txt
