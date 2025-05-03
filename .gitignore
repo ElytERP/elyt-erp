@@ -16,3 +16,5 @@ __pycache__/
 *.csv
 *.txt
 *.exe
+.venv
+configs
